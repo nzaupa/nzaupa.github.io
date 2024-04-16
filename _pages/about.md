@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am 3rd year PhD student in the MAC team at LAAS-CNRS under the supervision of [Isabelle Queinnec](https://homepages.laas.fr/queinnec/) and [Luca Zaccarian](https://homepages.laas.fr/lzaccari/).
+I am 3rd year PhD student in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS-CNRS under the supervision of [Isabelle Queinnec](https://homepages.laas.fr/queinnec/) and [Luca Zaccarian](https://homepages.laas.fr/lzaccari/).
 
-I received the master's degree in Mechatronics Engineering from the University of Trento, Italy, in 2021, following his bachelor's degree in Industrial Engineering in 2018. 
+I received the master's degree in Mechatronics Engineering from the University of Trento, Italy, in 2021, following the bachelor's degree in Industrial Engineering in 2018 in the [Department of Industrial Engineering](https://www.dii.unitn.it/en). 
 
 My main research interests include the hybrid systems analysis within the domains of power electronics and mechatronics. I have also worked on the synchronization of multi-agent systems.
 
