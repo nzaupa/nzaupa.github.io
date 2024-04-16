@@ -4,9 +4,9 @@
 @string{aps = {American Physical Society,}}
 
 @article{zaupa2021resonantADHS,
+  abbr = {ADHS},
   bibtex_show={true},
   title = {Results on Hybrid Control of Self-Oscillating Resonant Converters},
-  shorttitle = {{{resonantADHS}}},
   author = {Zaupa, Nicola and {Mart{\'i}nez-Salamero}, Luis and Olalla, Carlos and Zaccarian, Luca},
   year = {2021},
   month = jan,
@@ -17,13 +17,11 @@
   pages = {211--216},
   issn = {2405-8963},
   doi = {10.1016/j.ifacol.2021.08.500},
-  preview={wave-mechanics.gif}
 }
 
 @article{zaupa2023resonantLCSS,
   bibtex_show={true},
   title = {Hybrid {{Control}} of {{Self-Oscillating Resonant Converters With Three-Level Input}}},
-  shorttitle = {{{resonantLCSS}}},
   author = {Zaupa, Nicola and Olalla, Carlos and Queinnec, Isabelle and {Mart{\'i}nez-Salamero}, Luis and Zaccarian, Luca},
   year = {2023},
   journal = {IEEE Control Systems Letters},
@@ -31,13 +29,13 @@
   pages = {1375--1380},
   issn = {2475-1456},
   doi = {10.1109/LCSYS.2023.3240887},
+  preview = {LCSS23},
   selected={true}
 }
 
 @article{zaupa2023resonantTCST,
   bibtex_show={true},
   title = {Hybrid {{Control}} of {{Self-Oscillating Resonant Converters}}},
-  shorttitle = {{{resonantTCST}}},
   author = {Zaupa, Nicola and {Mart{\'i}nez-Salamero}, Luis and Olalla, Carlos and Zaccarian, Luca},
   year = {2023},
   month = mar,
@@ -47,5 +45,40 @@
   pages = {881--888},
   issn = {1558-0865},
   doi = {10.1109/TCST.2022.3179948},
+  preview = {TCST23},
   selected={true}
+}
+
+
+@misc{zaupa_equivalent_2023,
+  abbr = {arXiv},
+	title = {Equivalent {Conditions} for the {Synchronization} of {Identical} {Linear} {Systems} over {Arbitrary} {Interconnections}},
+	url = {http://arxiv.org/abs/2303.17321},
+	doi = {10.48550/arXiv.2303.17321},
+	abstract = {We propose necessary and sufficient conditions for the synchronization of \$N\$ identical single-input-single-output (SISO) systems, connected through a directed graph. We consider both the continuous-time and the discrete-time case, and we provide conditions that do not require any assumption on the graph and ensure the uniform global exponential stability of the closed attractor that corresponds to the synchronization set, with guaranteed convergence rate.},
+	urldate = {2024-04-15},
+	publisher = {arXiv},
+	author = {Zaupa, Nicola and Giordano, Giulia and Queinnec, Isabelle and Tarbouriech, Sophie and Zaccarian, Luca},
+	month = dec,
+	year = {2023},
+	note = {arXiv:2303.17321 [cs, eess, math]},
+  arxiv = {2303.17321},
+	keywords = {Electrical Engineering and Systems Science - Systems and Control, Mathematics - Optimization and Control},
+  selected={true}
+}
+
+@inproceedings{zaupa_controlling_2023,
+  abbr = {CDC23},
+	title = {Controlling {Identical} {Linear} {Multi}-{Agent} {Systems} {Over} {Directed} {Graphs}},
+	url = {https://ieeexplore.ieee.org/document/10383830},
+	doi = {10.1109/CDC49753.2023.10383830},
+	abstract = {We consider the problem of synchronizing a multiagent system (MAS) composed of several identical linear systems connected through a directed graph. To design a suitable controller, we construct conditions based on Bilinear Matrix Inequalities (BMIs) that ensure state synchronization. Since these conditions are non-convex, we propose an iterative algorithm based on a suitable relaxation that allows us to formulate Linear Matrix Inequality (LMI) conditions. As a result, the algorithm yields a common static state-feedback matrix for the controller that satisfies general linear performance constraints. Our results are achieved under the mild assumption that the graph is time-invariant and connected.},
+	urldate = {2024-04-12},
+	booktitle = {2023 62nd {IEEE} {Conference} on {Decision} and {Control} ({CDC})},
+	author = {Zaupa, Nicola and Zaccarian, Luca and Tarbouriech, Sophie and Queinnec, Isabelle and Giordano, Giulia},
+	month = dec,
+	year = {2023},
+	note = {ISSN: 2576-2370},
+	keywords = {Benchmark testing, Directed graphs, Iterative methods, Linear matrix inequalities, Linear systems, Sufficient conditions, Synchronization},
+	pages = {7395--7400},
 }
