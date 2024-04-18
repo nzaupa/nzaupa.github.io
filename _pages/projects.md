@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Ongoing and past works 
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here I will try to keep updated what I am doing and what I have done.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: work # [work, fun]
 horizontal: false
 ---
 
