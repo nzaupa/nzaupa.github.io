@@ -7,19 +7,29 @@ subtitle: Control. Hybrid Systems. Power Electronics. Every Engineering Applicat
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
+  image: [  {src: 'prof_pic_2.jpg',   href: 'Toulouse 2024'},
+            {src: 'prof_pic.jpg',     href: 'Toulouse 2023'}
+          ]
   image_circular: false # crops the image to make it circular
   more_info: 
     # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am 3rd year PhD student in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS under the supervision of [Isabelle Queinnec](https://homepages.laas.fr/queinnec/) and [Luca Zaccarian](https://homepages.laas.fr/lzaccari/).
+<!-- var images = [
+    {src: '1.jpg', href: '#link1'},
+    {src: '2.jpg', href: '#link2'},
+    {src: '3.jpg', href: '#link3'},
+    {src: '4.jpg', href: '#link4'}
+]; -->
+
+I am a 3rd year PhD student in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS (Toulouse, France) under the supervision of [Isabelle Queinnec](https://homepages.laas.fr/queinnec/) and [Luca Zaccarian](https://homepages.laas.fr/lzaccari/).
 
 My thesis topic is revolving around the control of resonant converters. You can find an under-construction website [here](https://nzaupa.github.io/FPGA_resonant_converter/intro.html). The experimental part of this work is done in collaboration with [Carlos Olalla](https://usuaris.tinet.cat/com.ea/) and [Luis Martínez-Salamero](https://scholar.google.com/citations?user=71pwBGoAAAAJ) at the Power Electronics laboratory of the [GAEI group](http://sauron.etse.urv.es/gaei/index.html) of Universitat Rovira i Virgili (URV) in Tarragona, Spain.
 During the thesis, I entered also in an ongoing work about the synchronization of identical linear multiagent systems in collaboration with [Giulia Giordano](http://giordanogiulia.altervista.org/) and [Sophie  Tarbouriech](https://homepages.laas.fr/tarbour/bio.html).
