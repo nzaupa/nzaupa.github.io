@@ -14,33 +14,22 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-
-  <script>
-    var idx = Math.floor((Math.random()*2));
-    p = document.createElement("p");
-    p.innerHTML = idx;
-    document.getElementById("pic_id").textContent = idx;
-  </script>
-
   <article>
     {% if page.profile %}
-    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-      <span id="pic_id"></span>
-      {{pic_id}}
-        {% if page.profile.image %}  
-            <!-- {% assign idx1 = 'hola num' |  append: idx | append: 'tr' %} -->
-            <!-- {{ idx1 }} -->
-            {% assign profile_image_path = page.profile.image[1].src | prepend: 'assets/img/bio/' %}
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/bio/' %}
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% assign profile_image_class = 'img-fluid z-depth-1
+      rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-          {% assign cap =  page.profile.image[1].href %}
+          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+      30vw, 95vw"{% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt='text'
-            cache_bust=true caption= cap
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            cache_bust=true
           %}
         {% endif %}
         {% if page.profile.more_info %}
@@ -48,20 +37,6 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
-
-    {% comment %} <body>
-      <div id="banner-images"> </div>
-      <script> 
-          var images = [
-              {src: '1.jpg', href: '#link1'},
-              {src: '2.jpg', href: '#link2'},
-              {src: '3.jpg', href: '#link3'},
-              {src: '4.jpg', href: '#link4'}
-          ];
-          var random_image = images[Math.floor(Math.random() * images.length)];
-          $('<a href="' + random_image.href + '"><img class="fade-in" src="images/' + random_image.src + '"></a>').appendTo('#banner-images');
-      </script>
-    </body> {% endcomment %}
 
     <div class="clearfix">{{ content }}</div>
 
