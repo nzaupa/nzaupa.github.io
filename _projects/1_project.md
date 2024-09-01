@@ -16,6 +16,7 @@ We choose the Hybrid Systems framework for the modeling and state-plane-based co
 The controller is implemented into an FPGA in order to test it on a prototype of SRC and LLC.
 
 In [this link](https://nzaupa.github.io/FPGA_resonant_converter/intro.html) you can find a page under construction with the aim of explaining what was done during this project.
+The idea is that it is going to contain all the work described in my PhD thesis. Ideally, I will take the time to move from the pdf to online so that it is more accessible.
 
 
 <div class="row">

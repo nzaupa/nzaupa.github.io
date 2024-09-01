@@ -43,6 +43,8 @@ My main research interests include everything that is related to (industrial) en
 To name a few: mechatronics, power electronics, electronics, robotics, ...
 I like to tackle challenging problems from different point of views, test solutions on real prototype to go beyond simulation, and dive into implementation's problems (which are always there to wait for us).
 
+You can find my CV [here](../assets/pdf/ZaupaNicola_CV.pdf).
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
