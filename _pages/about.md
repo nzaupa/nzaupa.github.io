@@ -9,7 +9,7 @@ profile:
   align: right
   # image: prof_pic.jpg
   image: [  {src: 'prof_pic_2.jpg',   href: 'Toulouse 2024'},
-            {src: 'prof_pic.jpg',     href: 'Toulouse 2023'}
+            {src: 'prof_pic.jpg',     href: 'Toulouse 2024'}
           ]
   image_circular: false # crops the image to make it circular
   more_info: 
@@ -29,9 +29,11 @@ social: true # includes social icons at the bottom of the page
     {src: '4.jpg', href: '#link4'}
 ]; -->
 
-I am a 3rd year PhD student in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS (Toulouse, France) under the supervision of [Isabelle Queinnec](https://homepages.laas.fr/queinnec/) and [Luca Zaccarian](https://homepages.laas.fr/lzaccari/).
+I am a Postdoctoral Researcher in a short-term contract in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS (Toulouse, France) working with [Sophie  Tarbouriech](https://homepages.laas.fr/tarbour/bio.html) and [Samuele Zoboli](https://samuelezoboli.github.io/).
+I am working on coding LMIs in Python using cvxpy to insert an ETM in a neural network.
 
-My thesis topic is revolving around the control of resonant converters. You can find an under-construction website [here](https://nzaupa.github.io/FPGA_resonant_converter/intro.html). The experimental part of this work is done in collaboration with [Carlos Olalla](https://usuaris.tinet.cat/com.ea/) and [Luis Martínez-Salamero](https://scholar.google.com/citations?user=71pwBGoAAAAJ) at the Power Electronics laboratory of the [GAEI group](http://sauron.etse.urv.es/gaei/index.html) of Universitat Rovira i Virgili (URV) in Tarragona, Spain.
+I completed my Ph.D. in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS under the supervision of [Isabelle Queinnec](https://homepages.laas.fr/queinnec/) and [Luca Zaccarian](https://homepages.laas.fr/lzaccari/).
+My thesis topic was revolving around the control of resonant converters. You can find an under-construction website [here](https://nzaupa.github.io/FPGA_resonant_converter/intro.html). The experimental part of this work is done in collaboration with [Carlos Olalla](https://usuaris.tinet.cat/com.ea/) and [Luis Martínez-Salamero](https://scholar.google.com/citations?user=71pwBGoAAAAJ) at the Power Electronics laboratory of the [GAEI group](http://sauron.etse.urv.es/gaei/index.html) of Universitat Rovira i Virgili (URV) in Tarragona, Spain.
 During the thesis, I entered also in an ongoing work about the synchronization of identical linear multiagent systems in collaboration with [Giulia Giordano](http://giordanogiulia.altervista.org/) and [Sophie  Tarbouriech](https://homepages.laas.fr/tarbour/bio.html).
 
 I received the master's degree in Mechatronics Engineering from the University of Trento, Italy, in 2021, following the bachelor's degree in Industrial Engineering in 2018 in the [Department of Industrial Engineering](https://www.dii.unitn.it/en). 
