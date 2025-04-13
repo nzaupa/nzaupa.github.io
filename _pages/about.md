@@ -29,7 +29,12 @@ social: true # includes social icons at the bottom of the page
     {src: '4.jpg', href: '#link4'}
 ]; -->
 
-I am a Postdoctoral Researcher in a short-term contract in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS (Toulouse, France) working with [Sophie  Tarbouriech](https://homepages.laas.fr/tarbour/bio.html) and [Samuele Zoboli](https://samuelezoboli.github.io/).
+
+Since March 2025 I am a Postdoctoral Researcher in the [MODUS team](https://www.gipsa-lab.grenoble-inp.fr/equipe/modus) at GIPSA-lab (Grenoble, France) working with [Bogdan Robu](https://www.gipsa-lab.grenoble-inp.fr/~bogdan.robu/) and [Mtteo Tacchi](https://matteotacchi.wordpress.com/).
+I am working inside the ANR project [RADYAL](https://project.inria.fr/radyal/) with the objective to add `control' to software and hardware optimization in order to reduce the energy consumption of neural networks.
+
+
+I was a Postdoctoral Researcher for two months in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS (Toulouse, France) working with [Sophie  Tarbouriech](https://homepages.laas.fr/tarbour/bio.html) and [Samuele Zoboli](https://samuelezoboli.github.io/).
 I am working on coding LMIs in Python using cvxpy to insert an ETM in a neural network.
 
 I completed my Ph.D. in the [MAC team](https://www.laas.fr/en/teams/mac/) at LAAS–CNRS under the supervision of [Isabelle Queinnec](https://homepages.laas.fr/queinnec/) and [Luca Zaccarian](https://homepages.laas.fr/lzaccari/).
