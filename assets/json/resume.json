@@ -14,7 +14,7 @@
    "work": [
       {
          "position": "Postdoc",
-         "organization": "GIPSA-lab",
+         "organization": "GIPSA-lab, Université Grenoble Alpes",
          "location": "Grenoble, France",
          "startDate": "2025-03-01",
          "summary": "Funded by the ANR project <a href=https://project.inria.fr/radyal/>RADYAL</a>, the objective is to develop new strategies to optimize the integration of neural networks in embedded systems from both an hardware and software perspective with the goal of reducing the energy consumption."
