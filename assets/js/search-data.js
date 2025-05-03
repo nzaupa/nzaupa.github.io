@@ -9,26 +9,26 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "[Under construction] You can find a short pdf version of the CV on the top right of the page.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/cv/";
           },
-        },{id: "nav-ongoing-and-past-works",
-          title: "Ongoing and past works",
+        },{id: "nav-projects",
+          title: "projects",
           description: "Here I will try to keep updated what I am doing and what I have done.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "[Under construction] You can find a short pdf version of the CV on the top right of the page.",
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/publications/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -77,6 +77,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-in-december-i-ll-be-at-cdc24-in-milan-as-a-volunteer",
           title: 'In December, I’ll be at CDC24 in Milan as a volunteer.',
+          description: "",
+          section: "News",},{id: "news-i-have-started-as-a-postdoctoral-researcher-at-gipsa-lab-grenoble-france-with-bogdan-robu-and-matteo-tacchi",
+          title: 'I have started as a Postdoctoral Researcher at GIPSA-lab (Grenoble, France) with Bogdan...',
           description: "",
           section: "News",},{id: "projects-control-of-resonant-converter",
           title: 'Control of Resonant Converter',
