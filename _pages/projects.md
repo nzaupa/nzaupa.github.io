@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ongoing and past works 
+title: projects
 permalink: /projects/
 description: Here I will try to keep updated what I am doing and what I have done.
 nav: true

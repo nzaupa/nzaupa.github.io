@@ -9,7 +9,7 @@
          "countryCode": "FR",
          "region": "Auvergne-Rhône-Alpes"
          },
-      "summary": "Experienced researcher with expertise in modeling and controlling physical systems, particularly in mechatronics and automatic control. Passionate about hands-on, application-oriented projects and collaborative research."
+      "summary": "Engineer and researcher with a background in Mechatronics and control of physical systems. I enjoy hands-on, application-oriented projects and tackling technical challenges with practical solutions. I like the DIY world, outdoor activities, and meeting new people."
    },
    "work": [
       {
@@ -17,7 +17,7 @@
          "organization": "GIPSA-lab",
          "location": "Grenoble, France",
          "startDate": "2025-03-01",
-         "summary": "Resource aware control of neural networks."
+         "summary": "Funded by the ANR project <a href=https://project.inria.fr/radyal/>RADYAL</a>, the objective is to develop new strategies to optimize the integration of neural networks in embedded systems from both an hardware and software perspective with the goal of reducing the energy consumption."
       },
       {
          "position": "Postdoc",
@@ -25,7 +25,7 @@
          "location": "Toulouse, France",
          "startDate": "2024-11-01",
          "endDate": "2024-12-31",
-         "summary": "Coding LMI conditions in Python to apply ETM to neural networks."
+         "summary": "Worked with <a href='https://homepages.laas.fr/tarbour/bio.html'>Sophie Tarbouriech</a> and <a href='https://samuelezoboli.github.io/'>Samuele Zoboli</a> on coding LMIs conditions in order to apply event trigger mechanism (ETM) to implicit neural networks."
       },
       {
          "position": "Ph.D. Researcher",
@@ -33,7 +33,7 @@
          "location": "Toulouse, France",
          "startDate": "2021-10-01",
          "endDate": "2024-10-31",
-         "summary": "Developed control laws for resonant converters using hybrid systems theory and implemented them in FPGA."
+         "summary": "Conducted research on the control of resonant converters within the <a href='https://www.laas.fr/en/teams/mac/'>MAC team</a>, under the supervision of <a href='https://homepages.laas.fr/queinnec/'>Isabelle Queinnec</a> and <a href='https://homepages.laas.fr/lzaccari/'>Luca Zaccarian</a>. The work included the study of the model with hybrid systems theory and the implementation of the control laws in FPGA. The experimental activities ve been carried out in collaboration with the <a href='http://sauron.etse.urv.es/gaei/index.html'>GAEI group</a> at URV (Spain). Also contributed to research on synchronization of linear multi-agent systems with <a href='http://giordanogiulia.altervista.org/'>Giulia Giordano</a> and <a href='https://homepages.laas.fr/tarbour/bio.html'>Sophie Tarbouriech</a>."
       },
       {
          "position": "Teaching Assistant",
@@ -75,7 +75,7 @@
          "location": "Trento, Italy",
          "startDate": "2018-09-01",
          "endDate": "2021-03-31",
-         "summary": "A hybrid approach to second-order resonant inverters design: analysis and experiments"
+         "summary": "<b>Final project:</b>A hybrid approach to second-order resonant inverters design: analysis and experiments"
       },
       {
          "studyType": "B.Sc. in Industrial Engineering",
