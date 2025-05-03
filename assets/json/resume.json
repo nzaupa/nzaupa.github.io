@@ -9,15 +9,15 @@
          "countryCode": "FR",
          "region": "Auvergne-Rhône-Alpes"
          },
-      "summary": "Experienced researcher with expertise in modeling and controlling physical systems, particularly in mechatronics and automatic control. Passionate about hands-on, application-oriented projects and collaborative research."
+      "summary": "Engineer and researcher with a background in Mechatronics and control of physical systems. I enjoy hands-on, application-oriented projects and tackling technical challenges with practical solutions. I like the DIY world, outdoor activities, and meeting new people."
    },
    "work": [
       {
          "position": "Postdoc",
-         "organization": "GIPSA-lab",
+         "organization": "GIPSA-lab, Université Grenoble Alpes",
          "location": "Grenoble, France",
          "startDate": "2025-03-01",
-         "summary": "Resource aware control of neural networks."
+         "summary": "Funded by the ANR project <a href=https://project.inria.fr/radyal/>RADYAL</a>, the objective is to develop new strategies to optimize the integration of neural networks in embedded systems from both an hardware and software perspective with the goal of reducing the energy consumption."
       },
       {
          "position": "Postdoc",
@@ -25,7 +25,7 @@
          "location": "Toulouse, France",
          "startDate": "2024-11-01",
          "endDate": "2024-12-31",
-         "summary": "Coding LMI conditions in Python to apply ETM to neural networks."
+         "summary": "Worked with <a href='https://homepages.laas.fr/tarbour/bio.html'>Sophie Tarbouriech</a> and <a href='https://samuelezoboli.github.io/'>Samuele Zoboli</a> on coding LMIs conditions in order to apply event trigger mechanism (ETM) to implicit neural networks."
       },
       {
          "position": "Ph.D. Researcher",
@@ -33,7 +33,7 @@
          "location": "Toulouse, France",
          "startDate": "2021-10-01",
          "endDate": "2024-10-31",
-         "summary": "Developed control laws for resonant converters using hybrid systems theory and implemented them in FPGA."
+         "summary": "Conducted research on the control of resonant converters within the <a href='https://www.laas.fr/en/teams/mac/'>MAC team</a>, under the supervision of <a href='https://homepages.laas.fr/queinnec/'>Isabelle Queinnec</a> and <a href='https://homepages.laas.fr/lzaccari/'>Luca Zaccarian</a>. The work included the study of the model with hybrid systems theory and the implementation of the control laws in FPGA. The experimental activities ve been carried out in collaboration with the <a href='http://sauron.etse.urv.es/gaei/index.html'>GAEI group</a> at URV (Spain). Also contributed to research on synchronization of linear multi-agent systems with <a href='http://giordanogiulia.altervista.org/'>Giulia Giordano</a> and <a href='https://homepages.laas.fr/tarbour/bio.html'>Sophie Tarbouriech</a>."
       },
       {
          "position": "Teaching Assistant",
@@ -67,7 +67,7 @@
          "location": "Toulouse, France",
          "startDate": "2021-10-01",
          "endDate": "2024-10-31",
-         "summary": "Hybrid limit Cycles: from theory to practice in resonant converters"
+         "summary": "<b>Thesis title:</b> «Hybrid limit Cycles: from theory to practice in resonant converters»."
       },
       {
          "studyType": "M.Sc. in Mechatronics Engineering",
@@ -75,7 +75,7 @@
          "location": "Trento, Italy",
          "startDate": "2018-09-01",
          "endDate": "2021-03-31",
-         "summary": "A hybrid approach to second-order resonant inverters design: analysis and experiments"
+         "summary": "<b>Final project:</b> «A hybrid approach to second-order resonant inverters design: analysis and experiments»."
       },
       {
          "studyType": "B.Sc. in Industrial Engineering",
@@ -83,7 +83,7 @@
          "location": "Trento, Italy",
          "startDate": "2015-09-01",
          "endDate": "2018-07-31",
-         "summary": "Temperature control with TEC (Thermo Electric Cooler)"
+         "summary": "<b>Final project:</b> «Temperature control with TEC (Thermo Electric Cooler)»."
       },
       {
          "studyType": "High School Diploma in Electronics and Electrotechnics",
@@ -91,22 +91,22 @@
          "location": "Vicenza, Italy",
          "startDate": "2010-09",
          "endDate": "2015-07",
-         "summary": "Design of an inverter"
+         "summary": "<b>Final project:</b> «Design of an inverter». <a href='https://www.itisrossi.edu.it/'>I.T.I.S. Rossi</a> (<em>Istituto Tecnico Industriale Statale</em> in Italian) is a technical public high school where I pursued the specialization in Electric-Electronics-Automation. This since it is where all my passion for electronics and DIY burst out, and I had the possibility and time to submerge myself into it."
       }
    ],
    "awards": [
       {
-         "title": "MICNON - Young Author Award",
-         "date": 2024,
+         "title": "MICNON - Young Authors Award",
+         "date": "2024-09",
          "awarder": "4th IFAC Conference on Modelling, Identification and Control of Nonlinear Systems (MICNON)",
-         "summary": "For the paper [C1] co-authored with a Ph.D. colleague."
+         "summary": "For the paper «Control of the RMS Output Current in Series Resonant Converters» co-authored with the Ph.D. colleague Manon Doré. We were both recognized as recipients of the award."
       }
    ],
    "languages": [
       {
          "language": "Italian",
          "fluency": "Native speaker",
-         "icon": ""
+         "icon": "fa-solid fa-pizza-slice"
       },
       {
          "language": "English",
@@ -132,15 +132,34 @@
    "interests": [
       {
          "name": "Hiking",
-         "keywords": ["Mountain", "Nature"]
+         "keywords": ["Mountain", "Nature"],
+         "icon": "fa-solid fa-mountain"
       },
       {
          "name": "Cooking",
-         "keywords": ["Italian", "French", "Spanish"]
+         "keywords": ["pizza"],
+         "icon": "fa-solid fa-utensils"
       }
    ],
-   "skills": {
-      "keywords": ["Verilog", "MATLAB", "Python", "C (basic)", "C++ (basic)","LaTeX", "PSIM", "Quartus", "Altium"]
-   }
+   "skills": [
+      {
+      "keywords": [
+         "Verilog", 
+         "MATLAB", 
+         "Python"]
+      },
+      {
+      "keywords": [
+         "C (basic)", 
+         "C++ (basic)",
+         "LaTeX"]
+      },
+      {
+      "keywords": [
+         "PSIM", 
+         "Quartus", 
+         "Altium"]
+      }
+   ]
 }
    
